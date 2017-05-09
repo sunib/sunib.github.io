@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A new try"
+date:   2017-05-09 22:25:01 -0200
+categories: github-pages
+---
+
+Testing around!
+
+Just playing arround a bit to see if this new post is immediatly processed by github somehow.
+
+I'm also curious to see if the new theme is beeing applied and if there is some notion of a newly added category
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Some links:
+* [hacker theme](https://github.com/pages-themes/hacker)
+* [How to write posts](https://jekyllrb.com/docs/posts/) especially intresting to see that it's all md, but it's also a yaml header.
